@@ -1,3 +1,3 @@
 ## 原始的CP：
-![box_base.jpg](https://github.com/tziyachi8533/tziyachi.github.io/blob/main/Origami/Images/box_base.jpg)
+![Box Base CP](https://github.com/tziyachi8533/tziyachi.github.io/blob/main/Origami/Images/box_base.png)
 ## 聚合之后的图形：
